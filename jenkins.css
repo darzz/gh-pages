@@ -9,7 +9,7 @@ body {
     width: 335px !important;
     height: 47px !important;
     background: url('dragon.png') no-repeat;
-    margin-top: -6px;
+    margin-top: -3px;
     margin-left: 0px !important;
     cursor: pointer;
 }
